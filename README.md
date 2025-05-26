@@ -1,4 +1,4 @@
-# # Atividade-Pontuada-Futebol
+# #Atividade-Pontuada-Futebol
 - *Aluna: Clara Lemos de Oliveira Esquivel*
-# # Sistema de Gestão de Jogadores de Futebol
-# # Este projeto tem como objetivo gerenciar jogadores de futebol, permitindo cadastro, listagem e visualização dos detalhes dos jogadores, consumindo dados de uma API.
+# #Sistema de Gestão de Jogadores de Futebol
+# #Este projeto tem como objetivo gerenciar jogadores de futebol, permitindo cadastro, listagem e visualização dos detalhes dos jogadores, consumindo dados de uma API.
